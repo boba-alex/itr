@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringSecurityApp:war_exploaded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringSecurityApp_war_exploaded</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </root>
+  </artifact>
+</component>
